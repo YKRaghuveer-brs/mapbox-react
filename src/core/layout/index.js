@@ -11,7 +11,7 @@ export const Layout = (props) => {
           <div className="d-flex flex-grow-1">
             <nav className="courseTitle">
               <button className="navbar-brand border-0">
-                <img src={require("../../logo.png")} alt="logo" />
+                <img src="https://png.pngtree.com/png-clipart/20230427/original/pngtree-3d-pin-map-location-icon-transparent-psd-png-image_9116189.png" style={{height:'100px',width:'100px'}} alt="logo" />
               </button>
             </nav>
             <div className="flex-grow-1">
@@ -52,9 +52,9 @@ export const Layout = (props) => {
 
       <footer className="footer footer-dark position-fixed">
         <div className="d-flex justify-content-between px-5">
-          <div>ALL RIGHTS RESERVED BRS STUDIO 2022</div>
+          
           <div>
-            <img src={require("../../footer-logo.png")} alt="logo" />
+            
           </div>
         </div>
       </footer>
